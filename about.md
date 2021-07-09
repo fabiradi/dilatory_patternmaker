@@ -2,9 +2,10 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-A simple and elegant theme for Jekyll and GitHub Pages.
+A simple and elegant theme for Jekyll and GitHub Pages. This is a test.
 
 ### Features:
 * Mobile-first design ensures this theme performs fastest on mobile while scaling elegantly to desktop-size screens.
